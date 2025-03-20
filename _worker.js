@@ -16,7 +16,7 @@ let addressesapi = [
 ];
 
 // 仅使用自行优选域名/优选IP
-addressesapi.length = 0;
+//addressesapi.length = 0;
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
@@ -31,7 +31,7 @@ let addressesnotlsapi = [
 ];
 
 // 仅使用自行优选域名/优选IP
-addressesnotlsapi.length = 0;
+//addressesnotlsapi.length = 0;
 
 let DLS = 8;//速度下限
 let addressescsv = [
